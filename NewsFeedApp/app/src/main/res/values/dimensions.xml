@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="LinearLayout_padding_Id_linear1">16dp</dimen>
+    <dimen name="LinearLayout_padding_Id_linear3">16dp</dimen>
+    <dimen name="LinearLayout_padding_Id_linear2">3dp</dimen>
+
+
+</resources>

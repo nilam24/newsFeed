@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+
+
+    <!---activity_main.xml-->
+
+    <string name="textView_EmptyView">list is empty</string>
+    <string name="listView">News_List_View</string>
+
+
+    <!---news_list_item_layout-->
+
+    <string name="textView_Title">News_Title</string>
+    <string name="textView_SectionName">News_Section_Name</string>
+    <string name="textView_web_Publication_Date">News_Publication_Date</string>
+    <string name="textView_web_Url">News_Url</string>
+    
+    <string name="imageView">Image_Of_Author</string>
+    <string name="textView_Author_Name">News_Author_Name</string>
+
+
+
+    <string name="button">clickToStart</string>
+
+</resources>
